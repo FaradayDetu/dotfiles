@@ -4,16 +4,6 @@
 <dict>
 	<key>AlternateMouseScroll</key>
 	<true/>
-	<key>AppleAntiAliasingThreshold</key>
-	<integer>1</integer>
-	<key>ApplePressAndHoldEnabled</key>
-	<false/>
-	<key>AppleScrollAnimationEnabled</key>
-	<integer>0</integer>
-	<key>AppleSmoothFixedFontsSizeThreshold</key>
-	<integer>1</integer>
-	<key>AppleWindowTabbingMode</key>
-	<string>manual</string>
 	<key>Custom Color Presets</key>
 	<dict>
 		<key>3024 Day</key>
@@ -56351,6 +56341,10 @@
 	<true/>
 	<key>HotkeyModifiers</key>
 	<integer>655650</integer>
+	<key>NeverWarnAboutShortLivedSessions_21EF41AB-4601-4B87-9B4F-4FB79F5D66AB</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_21EF41AB-4601-4B87-9B4F-4FB79F5D66AB_selection</key>
+	<integer>0</integer>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -56560,7 +56554,7 @@
 			<key>Columns</key>
 			<integer>80</integer>
 			<key>Command</key>
-			<string>/usr/local/bin/zsh --login</string>
+			<string>/bin/zsh --login</string>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -57110,7 +57104,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>MesloLGS-NF-Regular 14</string>
+			<string>Menlo-Regular 11</string>
 			<key>Only The Default BG Color Uses Transparency</key>
 			<true/>
 			<key>Option Key Sends</key>
@@ -57544,7 +57538,7 @@
 			<key>Columns</key>
 			<integer>80</integer>
 			<key>Command</key>
-			<string>/usr/local/bin/zsh --login</string>
+			<string>/bin/zsh --login</string>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -58643,7 +58637,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -59619,7 +59613,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -60617,7 +60611,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -61593,7 +61587,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -62616,7 +62610,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -63547,7 +63541,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -64198,7 +64192,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -64462,7 +64456,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -65101,7 +65095,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -65345,7 +65339,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -65992,7 +65986,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -66256,7 +66250,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -67145,7 +67139,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -68079,7 +68073,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -68740,7 +68734,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -68984,7 +68978,7 @@
 													<key>Columns</key>
 													<integer>80</integer>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Cursor Color</key>
 													<dict>
 														<key>Blue Component</key>
@@ -69653,7 +69647,7 @@
 												<key>Program</key>
 												<dict>
 													<key>Command</key>
-													<string>/usr/local/bin/zsh --login</string>
+													<string>/bin/zsh --login</string>
 													<key>Type</key>
 													<string>Command</string>
 												</dict>
@@ -69914,7 +69908,7 @@
 											<key>Columns</key>
 											<integer>80</integer>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Cursor Color</key>
 											<dict>
 												<key>Blue Component</key>
@@ -70585,7 +70579,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -70854,7 +70848,7 @@
 											<key>Columns</key>
 											<integer>80</integer>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Cursor Color</key>
 											<dict>
 												<key>Blue Component</key>
@@ -71539,7 +71533,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -71783,7 +71777,7 @@
 											<key>Columns</key>
 											<integer>80</integer>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Cursor Color</key>
 											<dict>
 												<key>Blue Component</key>
@@ -72445,7 +72439,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>
@@ -72714,7 +72708,7 @@
 											<key>Columns</key>
 											<integer>80</integer>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Cursor Color</key>
 											<dict>
 												<key>Blue Component</key>
@@ -73351,7 +73345,7 @@
 										<key>Program</key>
 										<dict>
 											<key>Command</key>
-											<string>/usr/local/bin/zsh --login</string>
+											<string>/bin/zsh --login</string>
 											<key>Type</key>
 											<string>Command</string>
 										</dict>

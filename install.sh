@@ -24,8 +24,8 @@ setup_colors() {
 }
 setup_colors
 
-echo "${GREEN}Cloning nikensss/dotfiles...${RESET}"
-git clone https://github.com/nikensss/dotfiles.git $HOME/dotfiles
+echo "${GREEN}Cloning FaradayDetu/dotfiles...${RESET}"
+git clone https://github.com/FaradayDetu/dotfiles.git $HOME/dotfiles
 cd $HOME/dotfiles
 git checkout automating
 
